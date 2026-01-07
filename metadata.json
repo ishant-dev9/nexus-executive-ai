@@ -1,0 +1,7 @@
+{
+  "name": "Nexus Executive AI",
+  "description": "A high-precision AI workspace designed for professionals, utilizing the Plan-Execute-Verify framework for complex task decomposition and nuanced response generation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
